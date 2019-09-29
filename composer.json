@@ -1,0 +1,19 @@
+{
+    "name": "ginger/therapy",
+    "description": "A GUI based PHP framework for multi-platform development",
+    "type": "project",
+    "require": {
+        "0,": "1",
+        "ext-openssl": "^7.3",
+        "lib-openssl": "1.1.1.1",
+        "composer/ca-bundle": "^1.1"
+    },
+    "license": "THIS IS AN OPEN SOURCE BASED PROJECT, ANY HEREFORE OBTAINED PACKAGE/PROJECT, IS VALID AS LONG AS THE CODING STANDARDS AND THE CODE WRITTEN IS RULE GUIDED ETHICALLY",
+    "authors": [
+        {
+            "name": "bryan",
+            "email": "bryanomondi254@gmail.com"
+        }
+    ],
+    "minimum-stability": "alpha"
+}

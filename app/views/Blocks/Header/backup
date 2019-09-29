@@ -1,0 +1,50 @@
+  <?php echo '<script src="' . ASSETS_JS . 'scripts.js"  type="text/javascript"></script>'; ?>
+        <?php echo '<script src="' . ASSETS_JS . 'datatables.min.js"  type="text/javascript"></script>'; ?>
+        <?php echo '<script src="' . ASSETS_JS . 'buttons.dataTables.min.js"  type="text/javascript"></script>'; ?>
+        <?php echo '<script src="' . ASSETS_JS . 'buttons.colVis.min.js"  type="text/javascript"></script>'; ?>
+        <?php echo '<script src="' . ASSETS_JS . 'dataTables.buttons.min.js"  type="text/javascript"></script>'; ?>
+        <?php echo '<script src="' . ASSETS_JS . 'buttons.flash.min.js"  type="text/javascript"></script>'; ?>
+        <?php echo '<script src="' . ASSETS_JS . 'jszip.min.js"  type="text/javascript"></script>'; ?>
+        <?php echo '<script src="' . ASSETS_JS . 'pdfmake.min.js"  type="text/javascript"></script>'; ?>
+        <?php echo '<script src="' . ASSETS_JS . 'vfs_fonts.js"  type="text/javascript"></script>'; ?>
+        <?php echo '<script src="' . ASSETS_JS . 'buttons.html5.min.js"  type="text/javascript"></script>'; ?>
+        <?php echo '<script src="' . ASSETS_JS . 'buttons.print.min.js"  type="text/javascript"></script>'; ?>
+        <?php echo '<script src="' . ASSETS_JS . 'datatables-init.js"  type="text/javascript"></script>'; ?>
+
+<? 
+            if (TYPEWRITER == 1){
+                
+            ?>
+
+            <div class="ui text container">
+                <div class="jumbotron" style="background-color: gray;">
+                    <div class="ui inverted header">
+                        <div id="t"><strong>Yay.</strong> <img style="height:1.5vw;width:auto;" src="https://twemoji.maxcdn.com/2/72x72/1f44b.png" alt=""/>
+                            ~~~~~~~~
+                            <ins>1.5</ins>I'm <em><del>SCACE<ins>1</ins></del>SCACES</em>, a <kbd>STUDENT CONSOLE FOR ADMISSION AND COURSE ENROLLMENT SYSTEM</kbd> 
+                            I provide full <strong>EDUCATIONAL</strong> support, also i can:<ins>1</ins>
+                            <span class="g">*</span> <kbd>mark exams</kbd> (<code>&lt;kbd&gt;</code>)<ins>.5</ins>
+                            <span class="g">*</span> provi<del>eeeeee</del>de resul <del>tt</del>ts(<code>&lt;del&gt;</code>)</ins><ins>.5</ins>
+                            <span class="g">*</span> relay<ins>2</ins> (numeric <code>&lt;ins&gt;</code>)<ins>.5</ins>
+                            <span class="g">*</span> <ins>insert</ins> (non-numeric <code>&lt;ins&gt;</code>)<ins>.5</ins>
+                            <span class="g">*</span> <s>10</s>change typing <s>250</s>speed<s>50</s> (<code>&lt;s&gt;</code>)<ins>.5</ins>
+                            <em>&rarr; Hypertypin' Markup Language (HTyML)</em>
+
+                            <a target="_blank" href="https://mntn-dev.github.io/t.js">Learn more</a>.
+                            <ins>5</ins>(Open console)<br/><span style="border-bottom:1px dashed magenta;">$('#t').a('<span class="p">text/html content</span>')</span> 
+                        </div>
+                    </div>
+                </div>    
+            </div>
+            <?
+            }
+            
+            else{
+            
+            ?>
+           
+            <?
+            }
+            
+                        ?>
+        

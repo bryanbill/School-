@@ -1,0 +1,69 @@
+ 'jquery.jscrollpane',
+  'bootstrap.min',
+  'pace',
+  'fontawesome-all',
+  'owl.carousel',
+  'animate',
+  'slick',
+  'main_styles',
+  'responsive',
+  'directives',
+  'directives.min',
+  'pignose.calender.min',
+  'scrollable.min',
+  'select2.min',
+  'semantic.ui.min',
+  'sweetalert',
+  'toastr.min',
+  'weather-icons',
+  'jquery.ui.1.10.3.ie',
+  'jquery-ui-1.10.3.custom',
+  'jquery-ui-1.10.3.theme',
+  
+  'font-awesome.min',
+  'font-awesome-ie7.min',
+
+
+
+
+//jsssss
+
+
+          'jquery.jscrollpane.min',
+          'jquery.mousewheel.min',
+          'jquery.nanosccroller.min',
+          'bootstrap',
+          
+          'popper',
+          'TweenMax.min',
+          'TimelineMax.min',
+          'ScrollMagic.min',
+          'animation.gsap.min',
+          'scrolltoplugin.min',
+          'owl.carousel',
+          'slick',
+          'easing',
+          'custom',
+          'owl.carousel.min',
+          'owl.theme.default.min',
+          'owl.carousel.min',
+          'owl.carousel-init',
+          'popper.min',
+          
+          'jquery.flexslider.min',
+          'blog_custom',
+          'blog_single_custom',
+          'cart_custom',
+          'contact_custom',
+          'custom',
+          'jquer-3.3.1.min',
+          'product_custom',
+          'regular_custom',
+          'shop_custom',
+          'sidebar',
+          'pace',
+          'pace.min',
+          
+          'script'
+
+
