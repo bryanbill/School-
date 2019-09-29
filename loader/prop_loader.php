@@ -12,7 +12,7 @@ define('CHARSETS', ''
         . '<link rel="icon" type="image/png" href="../assets/img/favicon.png">
            <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />');
 define('LOGOUT', 'http://localhost/therapy/logout');
-define('ROLE', 'Student');
+define('ROLE', '');
 define('OFFICE', 'http://localhost/therapy/froala/index');
 define('URP', 'http://localhost/therapy/index');
 define('BLOCKS', 'blocks');
