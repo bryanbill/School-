@@ -1,7 +1,7 @@
 <?php
 
 
-define('NAME', 'THERAPY|GINGER');
+define('NAME', 'NIno|GINGER');
 define('BR', '<br/>');
 define('DOCTYPE', '<!DOCTYPE html>');
 define('COPY', 'COPYRIGHT');
