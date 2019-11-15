@@ -55,12 +55,7 @@ class Bootstrap {
             }
            
         } 
-        
-      
-        
-        
-        
-       
+         
         
     }
     
